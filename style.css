@@ -1,0 +1,26 @@
+h1{color:blue;
+    font-size: 36px;
+    background-color: gold;
+    text-decoration: underline;
+}
+
+
+a{
+    color: black;
+}
+h2{color:purple;
+    font-size: 25px;
+    background-color: orange;
+    
+}
+ul {
+    list-style: none; /* Remove default bullets */
+  }
+#one{
+    
+    color:lightgreen;
+}
+#two{
+    background-color: beige;
+    font-style: italic;
+}
